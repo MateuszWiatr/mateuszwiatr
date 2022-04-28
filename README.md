@@ -29,6 +29,8 @@ Languages: English (C2), French (B2), Italian (B1), Spanish (A1)
 
 [LinkedIn](https://www.linkedin.com/in/mateuszwiatr/)
 
+[Tableau Public](https://public.tableau.com/app/profile/mateuszwiatr)
+
 [Twitter](https://twitter.com/Mateusz_Wiatr)
 
 [Kaggle](https://www.kaggle.com/mateuszwiatr)
