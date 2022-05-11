@@ -31,6 +31,8 @@ Languages: English (C2), French (B2), Italian (B1), Spanish (A1)
 
 [Tableau Public](https://public.tableau.com/app/profile/mateuszwiatr)
 
+[Power BI portfolio](https://www.novypro.com/profile_projects/mateusz-wiatr967720)
+
 [Kaggle](https://www.kaggle.com/mateuszwiatr)
 
 [Medium](https://medium.com/@mateuszwiatr)
