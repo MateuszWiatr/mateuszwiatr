@@ -21,7 +21,7 @@ Languages: VBA, DAX, SQL, Python, R
 
 Skills: Relational Database, Visualization, Dashboard, Business Analysis
 
-Languages: English (C2), French (B2), Italian (B1), Spanish (A1)
+Languages: English (C1), French (B2), Italian (A2), Spanish (A1)
 
 ## 📊 Bagdes and certificates: list [here](https://www.credly.com/users/mateusz-wiatr/badges)
 
