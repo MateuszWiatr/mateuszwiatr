@@ -15,7 +15,7 @@ I'm Mateusz, a self-taught, motivated financial data analyst from Poland.
 
 ## 💡 Core Competencies
 
-Tools: Power BI, Tableau, Azure, SSMS, SSRS 
+Tools: Power BI, Tableau, Azure, SSMS, SSRS, Oracle, Snowflake
 
 Languages: VBA, DAX, SQL, Python, R
 
