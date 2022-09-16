@@ -5,7 +5,7 @@ I'm Mateusz, a self-taught, motivated financial data analyst from Poland.
 ## ✨ Summary ✨
 
 
-👩🏻‍💻 BI Developer @ UPC Polska
+👩🏻‍💻 Senior Power BI DevOps @ ING Hubs
 
 📊 ACCA Student
 
